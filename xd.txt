@@ -14,7 +14,7 @@ BitcoinScammer:fbgroup
 Ai_2473:fbgroup
 06ED:dev
 Refior2:fbgroup
-Nwordzik:tester
+Nwordzik:dev
 TypeKemper1337:fbgroup
 C0mbatFeMb0y:fbgroup
 Tymasik:tester
