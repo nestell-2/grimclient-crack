@@ -41,4 +41,4 @@ AntoxaLobkov:bkgroup
 MaybeGetBrain:bkgroup
 NikitaShakal:bkgroup
 Starinka:dev
-Vospolnyayka:dev
+siema.exe:maindev
